@@ -20,7 +20,7 @@ This guide shows how to integrate real APIs with the Smart Traffic application.
 2. **Add Environment Variable**
    ```bash
    # .env
-   VITE_GOOGLE_MAPS_KEY=AIzaSyD...
+   VITE_GOOGLE_MAPS_KEY=AIzaSyAj9QqfDEBG_mYTZxhAmIDgzbsbtXvmkjE
    ```
 
 3. **Update RealTimeMap Component**
